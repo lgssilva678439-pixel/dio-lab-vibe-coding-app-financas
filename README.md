@@ -106,13 +106,12 @@ O app incentiva o uso com frases como:
 Converse com o Cleo para começar!  
 Botões simples como Bater papo e Pré-visualização facilitam a navegação.
 `
-
-Se quiser, posso te ajudar a montar o restante do README.md com introdução, instalação e instruções de uso.
-
-
+https://talk-to-your-tally.lovable.app/auth
 
 
 - Prints ou pequenos vídeos das interações com a IA;
+
+https://photos.app.goo.gl/Ek4EXupfzqE3GbeS8
 
 - Crie um app de finanças pessoais com base no seguinte prd( product requiriemente Document)
 PRD – App de Organização de Finanças Pessoais com IA
