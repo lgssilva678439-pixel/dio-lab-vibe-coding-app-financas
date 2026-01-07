@@ -74,12 +74,149 @@ Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork**
 No README do seu repositório, inclua:
 
 - Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
+
+PRD refinado pelo copilote web:
+Funcionalidades do App FinançasIA
+
+1. Registro de Gastos via Chat
+O usuário registra seus gastos conversando com o agente virtual Cleo.  
+Exemplo: Gastei R$50 em supermercado.
+
+2. Classificação Automática de Transações
+O app identifica e classifica os gastos em categorias como alimentação, transporte, lazer etc.
+
+3. Metas Financeiras
+O usuário pode definir metas como "Reserva de Emergência".  
+O app mostra o progresso em porcentagem e valor acumulado.  
+Exemplo: R$ 0,00 de R$ 2.000,00 – 0%.
+
+4. Relatórios Simples e Personalizados
+Tela de resumo financeiro com:
+- Total gasto no mês
+- Número de transações
+- Maior categoria de gasto
+- Gráficos simples por categoria
+
+5. Dicas Inteligentes do Agente Cleo
+Cleo sugere ações para economizar com base nos hábitos do usuário.  
+Exemplo: Você pode economizar se reduzir gastos com delivery.
+
+6. Interface Conversacional e Intuitiva
+O app incentiva o uso com frases como:  
+Converse com o Cleo para começar!  
+Botões simples como Bater papo e Pré-visualização facilitam a navegação.
+`
+
+Se quiser, posso te ajudar a montar o restante do README.md com introdução, instalação e instruções de uso.
+
+
+
+
+- Prints ou pequenos vídeos das interações com a IA;
+
+- Crie um app de finanças pessoais com base no seguinte prd( product requiriemente Document)
+PRD – App de Organização de Finanças Pessoais com IA
+
+permitido
+
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+
+- # Aprendizados do Projeto
+
+## 1. Da ideia ao problema real
+O ponto de partida foi identificar uma dor concreta: muitas pessoas desistem de controlar suas finanças porque os aplicativos existentes são complexos e exigem muita entrada manual. O projeto nasceu para resolver essa necessidade real.
+
+## 2. Experiência conversacional
+A escolha de uma interface baseada em chat simplificou a interação. Em vez de formulários e planilhas, o usuário apenas conversa com o agente virtual, tornando o processo mais acessível e natural.
+
+## 3. Estruturação em MVP
+Definir um MVP com funcionalidades básicas (registro de gastos, metas, relatórios simples e dicas) foi estratégico. Isso permitiu validar rápido, aprender com os primeiros usuários e evoluir sem desperdício de recursos.
+
+## 4. Testes e validação
+O plano de validar com usuários piloto garantiu aprendizado contínuo. Métricas simples como número de gastos registrados e clareza das dicas ajudaram a medir o sucesso inicial.
+
+## 5. Educação financeira como diferencial
+O aplicativo não apenas organiza números, mas também ensina e empodera o usuário. Essa camada educativa é um diferencial
+
+  - O que funcionou bem?
+  
+  - # O que Funcionou Bem
+
+## 1. Clareza do Problema
+O projeto nasceu de uma dor real: aplicativos de finanças são complexos e exigem muita entrada manual. Essa clareza ajudou a manter o foco na solução.
+
+## 2. Experiência Conversacional
+A decisão de usar chat como interface principal reduziu barreiras e tornou o app mais acessível e natural para o usuário.
+
+## 3. Estruturação em MVP
+Definir funcionalidades essenciais (registro de gastos, metas, relatórios simples e dicas) permitiu validar rápido sem gastar energia em recursos avançados.
+
+## 4. Documentação (PRD)
+O PRD revisado trouxe organização e alinhamento. Ele serviu como guia para manter o projeto coerente e comunicável.
+
+## 5. Testes e Validação
+Planejar testes piloto com métricas simples mostrou maturidade. Isso garantiu aprendizado contínuo e evolução baseada em feedback real.
+
+## 6. Tom Educativo
+O aplicativo não apenas registra números, mas também ensina e empodera o usuário. Essa camada educativa é um diferencial importante.
+
+## 7. Aprendizado Pessoal
+O processo permitiu exercitar tanto a prática de documentação (PRD) quanto o desenvolvimento criativo (vibe coding). Isso fortaleceu a visão de produto e as habilidades técnicas.
+
+---
+
+**Síntese:** O que funcionou bem foi a combinação de foco no problema, simplicidade na solução, clareza na documentação e abertura para aprendizado. O projeto mostra que é possível construir não só um aplicativo, mas também uma forma de pensar produto de maneira madura e prática.
+  - O que não funcionou como o esperado?
+  
+  - # O que Não Funcionou Como Esperado
+
+## 1. Registro de Gastos Inicial
+Os usuários não registraram gastos logo de início. A falta de hábito ou de clareza sobre como começar a conversar com o agente dificultou o uso.
+
+## 2. Classificação Automática
+A categorização dos gastos não foi precisa em todos os casos. Frases mais complexas ou informais geraram classificações incorretas.
+
+## 3. Relatórios Vazios
+Nos primeiros usos, os relatórios aparecem sem dados. Isso pode dar a sensação de "app vazio" e desmotivar o usuário antes de registrar suas primeiras transações.
+
+## 4. Metas Financeiras
+Apesar da funcionalidade existir, alguns usuários não definem metas logo no início. Isso reduz o engajamento com a parte mais educativa do app.
+
+## 5. Dicas do Agente
+As recomendações ainda são genéricas. Sem dados suficientes, o agente não consegue oferecer dicas realmente personalizadas.
+
+## 6. Fluxo de Onboarding
+O onboarding inicial não guiou tão bem os usuários. Muitos não entenderam de imediato que precisavam "bater papo" com o agente para começar.
+
+---
+
+**Síntese:** O que não funcionou como esperado está ligado principalmente ao primeiro contato do usuário com o app: relatórios vazios, falta de clareza no onboarding e dicas pouco personalizadas. Esses pontos mostram que, além da tecnologia, é essencial investir em experiência inicial para engajar o usuário desde o primeiro uso. 
   - O que aprendeu sobre conversar com IAs?
+  
+  - # O que Aprendi com Conversas com IA
+
+## 1. Clareza e Estrutura
+Aprendi a organizar ideias de forma mais clara e estruturada. As conversas ajudaram a transformar pensamentos soltos em documentos como PRDs e reflexões bem formatadas.
+
+## 2. Iteração Rápida
+Percebi que é possível evoluir um projeto em ciclos curtos. A cada interação, recebi feedback imediato que orientou ajustes no MVP e nas funcionalidades.
+
+## 3. Pensamento de Produto
+As conversas mostraram que não basta codar: é preciso pensar em público-alvo, problema real, validação e métricas de sucesso. Isso ampliou minha visão além da parte técnica.
+
+## 4. Linguagem Acessível
+Aprendi a comunicar conceitos complexos de forma simples e didática. Isso é essencial para que qualquer pessoa entenda o valor do aplicativo.
+
+## 5. Reflexão Crítica
+As trocas ajudaram a enxergar não só o que funcionou bem, mas também o que não saiu como esperado. Esse olhar crítico é fundamental para melhorar continuamente.
+
+## 6. Aprendizado Pessoal
+Entendi que conversar com IA não substitui a prática, mas acelera o aprendizado. É como ter um parceiro de brainstorming que ajuda a explorar ideias e consolidar conhecimento.
+
+---
+
+**Síntese:** As conversas com IA foram um exercício de clareza, foco e aprendizado contínuo. Elas mostraram que criar um aplicativo envolve tanto técnica quanto visão de produto, e que refletir sobre o processo é tão importante quanto construir e pretendo busca sempre mas conhecimento sobre criação de aplicativo pois mim apaixonei pela experiência.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
